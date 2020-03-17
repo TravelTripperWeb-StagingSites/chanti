@@ -1,6 +1,7 @@
 items:
   - id: __pages__
   - id: __menus__
+  - id: amenities
   # - id: room_data
   #   label:
   #     en: Rooms
