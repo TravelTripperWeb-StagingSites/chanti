@@ -1,0 +1,22 @@
+{
+  "name": {
+    "required": true,
+    "localizable": true,
+    "character_limit": 80
+  },
+  "description": {
+    "type": "text",
+    "localizable": true
+  },
+  "images": {
+    "type": "image",
+    "multiple": true
+  },
+  "published": {
+    "type": "boolean"
+  },  
+  "order": {
+    "type": "integer",
+    "required": true
+  }
+}
